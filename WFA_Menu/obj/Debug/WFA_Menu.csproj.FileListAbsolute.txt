@@ -1,0 +1,10 @@
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\bin\Debug\WFA_Menu.exe.config
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\bin\Debug\WFA_Menu.exe
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\bin\Debug\WFA_Menu.pdb
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.csprojAssemblyReference.cache
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.Form1.resources
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.Properties.Resources.resources
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.csproj.GenerateResource.cache
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.csproj.CoreCompileInputs.cache
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.exe
+D:\my_programming\TEST\C#\WFA_Menu\WFA_Menu\obj\Debug\WFA_Menu.pdb
